@@ -88,7 +88,7 @@ body {
 }
 
 .inner__body-btn:active {
-    background-color: rgb(3, 99, 3);
+    background-color: var(--active-color);
 }
 
 .inner__turn {
